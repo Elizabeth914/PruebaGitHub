@@ -1,4 +1,31 @@
 body{
   margin-top: 0px;
-  
 }
+
+#contenedor{
+  background-color: aliceblue;
+}
+/*
+  CSS 
+  objetos normales como el body, div, ul, il etc..
+  div{
+    width:300px;
+  } Todos los div van a tener un ancho de 300px
+
+  Id y las Clases
+  Id = Un identificador único dentro del HTML
+  3 div pero 1 se llama <div id="Carta">
+  #Carta{
+    background-color: black;
+  }
+  Las Clases identificador multiple
+  <div class="carrito">
+  .carrito{
+    border:1px;
+  }
+  Prioridades en el CSS
+  ID
+  CLASE
+  ETIQUETA  
+
+*/
